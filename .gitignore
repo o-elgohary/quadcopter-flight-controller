@@ -1,0 +1,7 @@
+# KiCad session/lock files (recreated automatically when the GUI is open)
+*.lck
+*.kicad_prl
+
+# DRC/ERC report scratch output
+pcb/drc_check.json
+pcb/erc_report.json

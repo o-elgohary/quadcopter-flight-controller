@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ICM42688P_Custom")(type "KiCad")(uri "${KIPRJMOD}/quad-fc.kicad_sym")(options "")(descr "Hand-made ICM-42688-P symbol (not present in any installed KiCad library)"))
+)
